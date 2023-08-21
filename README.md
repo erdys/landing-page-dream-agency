@@ -1,5 +1,7 @@
 # Landing Page (Tailwind CSS & Webpack) - Dream Agency
 
+Agency Landing Page coding a template in Tailwind CSS using Webpack. Project by UISOUP available at [Figma](https://www.figma.com/community/file/1022429870595398693).
+
 ## Quick Start
 
 ```bash
@@ -21,3 +23,9 @@ npm run build
 ## Environment Configuration
 
 The `.env.sample` file should contain all the variables that your application needs.
+
+## TO DO!
+
+-   [ ] Adding swiper for "Waht We Do" and "Our Recent Work"
+-   [ ] Adding lazyload
+-   [ ] Improving the responsive version of the website
