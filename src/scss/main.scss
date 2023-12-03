@@ -48,4 +48,10 @@
             }
         }
     }
+    .swiper-work-next.swiper-button-disabled,
+    .swiper-work-prev.swiper-button-disabled,
+    .swiper-business-next.swiper-button-disabled,
+    .swiper-business-prev.swiper-button-disabled {
+        opacity: 0.3;
+    }
 }
