@@ -2,6 +2,8 @@
 
 Agency Landing Page coding a template in Tailwind CSS using Webpack. Project by UISOUP available at [Figma](https://www.figma.com/community/file/1022429870595398693).
 
+The demo is available [here](https://www.berdychowski.com/demo/landing-page-dream-agency).
+
 ## Quick Start
 
 ```bash
