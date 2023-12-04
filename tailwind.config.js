@@ -37,6 +37,9 @@ module.exports = {
             },
             width: {
                 300: "300px"
+            },
+            translate: {
+                full: "100%"
             }
         }
     },

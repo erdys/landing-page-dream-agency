@@ -21,3 +21,16 @@ const swiperWork = new Swiper(".swiper-work", {
         prevEl: ".swiper-work-prev"
     }
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    const navbarMobile = document.getElementById("navbarMobile");
+    const navbarMobileBtnOpen = document.getElementById("navbarMobileBtnOpen");
+    const navbarMobileBtnClose = document.getElementById("navbarMobileBtnClose");
+
+    function toggleNavbarVisibility() {
+        navbarMobile.classList.toggle("translate-x-full");
+    }
+
+    navbarMobileBtnOpen.addEventListener("click", toggleNavbarVisibility);
+    navbarMobileBtnClose.addEventListener("click", toggleNavbarVisibility);
+});

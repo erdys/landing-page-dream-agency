@@ -29,4 +29,4 @@ The `.env.sample` file should contain all the variables that your application ne
 -   [x] Adding swiper for "What We Do" and "Our Recent Work"
 -   [x] Adding lazyload
 -   [x] Improving the responsive version of the website
--   [ ] Edit navbar for mobile view
+-   [x] Edit navbar for mobile view
